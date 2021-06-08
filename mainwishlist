@@ -1,7 +1,12 @@
 title:This is my personal wihslist for destiny 2
-title:Primary Weapons
+title:Sniper Rifles
+dimwishlist:item=2065081837&perks=1467527085,1087426260,2284787283,3038247973#notes:Uzume RR4
+dimwishlist:item=3745990145&perks=893526895,3142289711,957782887,3400784728#notes:Long Shadow
+
+
 title:Auto Rifles
 dimwishlist:item=1119734784&perks=202670084,3142289711,1820235745,3425386926#notes:Chroma Rush
+dimwishlist:item=821154603&perks=4090651448,3142289711,1820235745,3425386926#notes:Gnawing Hunger
 
 title:Pulse Rifles
 dimwishlist:item=1621558458&perks=1467527085,1885400500,2450788523,4104185692#notes:Gridskipper
@@ -25,13 +30,8 @@ title:Sidearms
 dimwishlist:item=541188001&perks=4090651448,106909392,2846385770,4104185692#notes:Farewell
 
 
-title:Special Weapons
 title: Singe Shot Grenade Launcher
 dimwishlist:item=304659313&perks=3301904089,3161816588,4104185692#notes:ignition code
-
-
-title:Sniper Rifles
-dimwishlist:item=2065081837&perks=1467527085,1087426260,2284787283,3038247973#notes:Uzume RR4
 
 
 title:Trace Rifle
